@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# My Password Generator
 For this weeks project we had to use our knowledge of JavaScript to create a password generator that creates a random password upon request. Here are the simplified steps that I created based on the acceptance criteria and used as a guide as I went through the challenge:
 
 1   Generate Password Button: The user clicks a button to initiate the password generation process.
