@@ -22,3 +22,9 @@ Below I have attached a screenshot of a randomly generated password created by m
 ![Screenshot of randomly generated password](assets/images/Screenshot%202023-10-19%20at%2022.52.10.png)
 
 Below are links to my deployed website and repo:
+
+Repo
+https://github.com/MustafeMohamoud1/mustafe-password-generator
+
+Deployed app
+https://mustafemohamoud1.github.io/mustafe-password-generator/
